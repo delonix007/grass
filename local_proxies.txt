@@ -1,2 +1,6 @@
-http://jyvkaugk:arhl94goct6s@62.164.228.109:8421
-http://jyvkaugk:arhl94goct6s@208.66.72.196:5845
+http://jyvkaugk:arhl94goct6s@62.164.242.196:8773
+http://jyvkaugk:arhl94goct6s@107.180.191.169:6862
+http://jyvkaugk:arhl94goct6s@45.248.55.204:6790
+http://jyvkaugk:arhl94goct6s@45.248.55.56:6642
+http://jyvkaugk:arhl94goct6s@45.248.55.165:6751
+http://jyvkaugk:arhl94goct6s@45.248.55.74:6660
