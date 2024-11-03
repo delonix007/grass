@@ -1,6 +1,6 @@
 http://jyvkaugk:arhl94goct6s@107.180.191.239:6932
-http://jyvkaugk:arhl94goct6s@107.180.191.220:6913
-http://jyvkaugk:arhl94goct6s@216.98.249.122:7103
+http://jyvkaugk:arhl94goct6s@45.248.55.180:6766
+http://jyvkaugk:arhl94goct6s@45.248.55.185:6771
 http://jyvkaugk:arhl94goct6s@107.180.191.142:6835
 http://jyvkaugk:arhl94goct6s@107.180.191.154:6847
-http://jyvkaugk:arhl94goct6s@107.180.191.129:6822
+http://jyvkaugk:arhl94goct6s@45.248.55.115:6701
